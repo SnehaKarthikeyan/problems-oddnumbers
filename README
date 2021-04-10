@@ -6,7 +6,7 @@ Input Size : |N| <= 1000000
 
 Input Description: 
 
-The first line contains an integer N. The second line contains N space-separated integers, which denotes array elements.
+The first contains a positive integer n denoting the length of the array, 1<=n<=20. The second line contains an array of n positive integers, 1<=arr[i]<=10^4.
 
 Output Description: 
 
